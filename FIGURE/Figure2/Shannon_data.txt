@@ -1,0 +1,328 @@
+Sample name	shannon	part	type	family
+R.101	8.955	Endosp.	Desert steppe	Stipa
+R.103	3.675	Endosp.	Desert steppe	other
+R.112	9.751	Endosp.	Temperate grassland	Stipa
+R.113	9.036	Endosp.	Temperate grassland	Stipa
+R.14	5.624	Endosp.	Warm-temperate grassland	Stipa
+R.16	4.492	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.21	9.445	Endosp.	Warm-temperate grassland	Agropyron
+R.24	3.934	Endosp.	Temperate grassland	Artemisia Linn.
+R.243	8.503	Endosp.	Temperate grassland	Agropyron
+R.245	10.251	Endosp.	Temperate grassland	Stipa
+R.246	9.441	Endosp.	Temperate grassland	Agropyron
+R.247	8.61	Endosp.	Temperate grassland	Agropyron
+R.24G	4.132	Endosp.	Temperate grassland	Artemisia Linn.
+R.25	8.207	Endosp.	Temperate grassland	Stipa
+R.252	9.189	Endosp.	Desert steppe	Stipa
+R.253	8.241	Endosp.	Desert steppe	Reaumuria Linn.
+R.260	3.063	Endosp.	Desert steppe	Stipa
+R.27	10.194	Endosp.	Temperate grassland	Agropyron
+R.313	8.241	Endosp.	Desert steppe	Agropyron
+R.36	9.533	Endosp.	Temperate grassland	Stipa
+R.4	8.799	Endosp.	Warm-temperate grassland	other
+R.416	7.611	Endosp.	Desert steppe	Reaumuria Linn.
+R.418	5.943	Endosp.	Desert steppe	Reaumuria Linn.
+R.419	4.531	Endosp.	Desert steppe	Artemisia Linn.
+R.41B	6.162	Endosp.	Temperate grassland	other
+R.41D	7.552	Endosp.	Temperate grassland	Stipa
+R.42	10.002	Endosp.	Temperate grassland	Agropyron
+R.420	10.117	Endosp.	Desert steppe	Stipa
+R.424	10.354	Endosp.	Desert steppe	Agropyron
+R.488	3.297	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.50	4.125	Endosp.	Temperate grassland	Artemisia Linn.
+R.512	5.927	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.513	5.758	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.514	3.264	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.517	4.737	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.524	9.159	Endosp.	Temperate grassland	Artemisia Linn.
+R.526	9.017	Endosp.	Temperate grassland	Agropyron
+R.527	4.653	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.534	9.559	Endosp.	Warm-temperate grassland	Stipa
+R.542	9.786	Endosp.	Temperate grassland	Stipa
+R.55	5.177	Endosp.	Temperate grassland	Artemisia Linn.
+R.558	6.956	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.56	9.07	Endosp.	Temperate grassland	other
+R.563	3.872	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.565	2.701	Endosp.	Temperate grassland	Artemisia Linn.
+R.566	4.436	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.567	9.118	Endosp.	Warm-temperate grassland	other
+R.569C	9.46	Endosp.	Temperate grassland	Agropyron
+R.569Z	9.867	Endosp.	Temperate grassland	other
+R.57	8.977	Endosp.	Temperate grassland	Stipa
+R.570	4.095	Endosp.	Temperate grassland	Artemisia Linn.
+R.571	8.281	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.575	4.929	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.577	5.347	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.578	4.786	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.579	9.692	Endosp.	Warm-temperate grassland	Stipa
+R.58	3.904	Endosp.	Temperate grassland	Artemisia Linn.
+R.585	8.856	Endosp.	Warm-temperate grassland	Stipa
+R.585T	5.951	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.59	3.957	Endosp.	Temperate grassland	Artemisia Linn.
+R.6	9.689	Endosp.	Warm-temperate grassland	Stipa
+R.60	7.727	Endosp.	Warm-temperate grassland	Stipa
+R.600	5.296	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.61	5.79	Endosp.	Warm-temperate grassland	Artemisia Linn.
+R.67	9.984	Endosp.	Warm-temperate grassland	other
+R.69	8.752	Endosp.	Temperate grassland	other
+R.72	6.28	Endosp.	Temperate grassland	Stipa
+R.74	6.449	Endosp.	Desert steppe	Artemisia Linn.
+R.76	6.602	Endosp.	Desert steppe	Stipa
+R.79	5.452	Endosp.	Desert steppe	Artemisia Linn.
+R.82	8.036	Endosp.	Desert steppe	Artemisia Linn.
+R.87	8.73	Endosp.	Desert steppe	Stipa
+R.88	6.84	Endosp.	Desert steppe	Stipa
+R.9	8.182	Endosp.	Warm-temperate grassland	Agropyron
+R.90	8.676	Endosp.	Desert steppe	other
+R.91	8.488	Endosp.	Desert steppe	Stipa
+R.93	7.601	Endosp.	Desert steppe	Stipa
+R.94	6.729	Endosp.	Desert steppe	Stipa
+R.B001	10.109	Endosp.	Temperate grassland	Agropyron
+R.B002	9.502	Endosp.	Desert steppe	Stipa
+R.B003	9.126	Endosp.	Temperate grassland	Stipa
+R.B583	8.166	Endosp.	Warm-temperate grassland	Stipa
+RB.101	10.761	Rhizopl.	Desert steppe	Stipa
+RB.103	8.983	Rhizopl.	Desert steppe	other
+RB.112	10.713	Rhizopl.	Temperate grassland	Stipa
+RB.113	10.897	Rhizopl.	Temperate grassland	Stipa
+RB.14	11.377	Rhizopl.	Warm-temperate grassland	Stipa
+RB.16	11.183	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.21	11.117	Rhizopl.	Warm-temperate grassland	Agropyron
+RB.24	10.826	Rhizopl.	Temperate grassland	Artemisia Linn.
+RB.243	11.008	Rhizopl.	Temperate grassland	Agropyron
+RB.245	10.682	Rhizopl.	Temperate grassland	Stipa
+RB.246	9.809	Rhizopl.	Temperate grassland	Agropyron
+RB.247	10.951	Rhizopl.	Temperate grassland	Agropyron
+RB.24G	10.65	Rhizopl.	Temperate grassland	Artemisia Linn.
+RB.25	11.155	Rhizopl.	Temperate grassland	Stipa
+RB.252	10.595	Rhizopl.	Desert steppe	Stipa
+RB.253	8.989	Rhizopl.	Desert steppe	Reaumuria Linn.
+RB.260	9.617	Rhizopl.	Desert steppe	Stipa
+RB.27	10.888	Rhizopl.	Temperate grassland	Agropyron
+RB.313	10.368	Rhizopl.	Desert steppe	Agropyron
+RB.36	11.221	Rhizopl.	Temperate grassland	Stipa
+RB.4	10.824	Rhizopl.	Warm-temperate grassland	other
+RB.416	9.343	Rhizopl.	Desert steppe	Reaumuria Linn.
+RB.418	9.374	Rhizopl.	Desert steppe	Reaumuria Linn.
+RB.419	10.052	Rhizopl.	Desert steppe	Artemisia Linn.
+RB.41B	10.818	Rhizopl.	Temperate grassland	other
+RB.41D	10.775	Rhizopl.	Temperate grassland	Stipa
+RB.42	8.462	Rhizopl.	Temperate grassland	Agropyron
+RB.420	10.867	Rhizopl.	Desert steppe	Stipa
+RB.424	10.899	Rhizopl.	Desert steppe	Agropyron
+RB.488	10.956	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.50	11.612	Rhizopl.	Temperate grassland	Artemisia Linn.
+RB.512	11.349	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.513	10.888	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.514	10.929	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.517	11.069	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.524	11.029	Rhizopl.	Temperate grassland	Artemisia Linn.
+RB.526	11.124	Rhizopl.	Temperate grassland	Agropyron
+RB.527	11.134	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.534	11.318	Rhizopl.	Warm-temperate grassland	Stipa
+RB.542	11.276	Rhizopl.	Temperate grassland	Stipa
+RB.55	10.66	Rhizopl.	Temperate grassland	Artemisia Linn.
+RB.558	11.287	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.563	11.423	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.565	10.327	Rhizopl.	Temperate grassland	Artemisia Linn.
+RB.566	10.273	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.567	11.209	Rhizopl.	Warm-temperate grassland	other
+RB.569C	10.612	Rhizopl.	Temperate grassland	Agropyron
+RB.569Z	11.233	Rhizopl.	Temperate grassland	other
+RB.57	11.143	Rhizopl.	Temperate grassland	Stipa
+RB.570	11.414	Rhizopl.	Temperate grassland	Artemisia Linn.
+RB.571	11.342	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.575	11.191	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.577	10.976	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.578	10.589	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.579	11.056	Rhizopl.	Warm-temperate grassland	Stipa
+RB.58	10.129	Rhizopl.	Temperate grassland	Artemisia Linn.
+RB.59	9.022	Rhizopl.	Temperate grassland	Artemisia Linn.
+RB.6	11.072	Rhizopl.	Warm-temperate grassland	Stipa
+RB.60	7.32	Rhizopl.	Warm-temperate grassland	Stipa
+RB.600	11.261	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.61	11.291	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RB.67	11.404	Rhizopl.	Warm-temperate grassland	other
+RB.69	11.314	Rhizopl.	Temperate grassland	other
+RB.72	10.445	Rhizopl.	Temperate grassland	Stipa
+RB.74	10.543	Rhizopl.	Desert steppe	Artemisia Linn.
+RB.76	10.731	Rhizopl.	Desert steppe	Stipa
+RB.79	10.543	Rhizopl.	Desert steppe	Artemisia Linn.
+RB.82	8.748	Rhizopl.	Desert steppe	Artemisia Linn.
+RB.87	5.599	Rhizopl.	Desert steppe	Stipa
+RB.88	11.179	Rhizopl.	Desert steppe	Stipa
+RB.9	11.083	Rhizopl.	Warm-temperate grassland	Agropyron
+RB.90	9.291	Rhizopl.	Desert steppe	other
+RB.91	10.728	Rhizopl.	Desert steppe	Stipa
+RB.93	10.411	Rhizopl.	Desert steppe	Stipa
+RB.94	10.895	Rhizopl.	Desert steppe	Stipa
+RB.B001	10.88	Rhizopl.	Temperate grassland	Agropyron
+RB.B002	10.389	Rhizopl.	Desert steppe	Stipa
+RB.B003	10.842	Rhizopl.	Temperate grassland	Stipa
+RB.B583	10.988	Rhizopl.	Warm-temperate grassland	Stipa
+RB.B585	9.239	Rhizopl.	Warm-temperate grassland	Stipa
+RB.B585T	11.01	Rhizopl.	Warm-temperate grassland	Artemisia Linn.
+RJ.101	7.993	Rhizosp.	Desert steppe	Stipa
+RJ.103	9.437	Rhizosp.	Desert steppe	other
+RJ.112	8.037	Rhizosp.	Temperate grassland	Stipa
+RJ.113	8.546	Rhizosp.	Temperate grassland	Stipa
+RJ.14	11.393	Rhizosp.	Warm-temperate grassland	Stipa
+RJ.16	10.958	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.21	7.71	Rhizosp.	Warm-temperate grassland	Agropyron
+RJ.24	10.965	Rhizosp.	Temperate grassland	Artemisia Linn.
+RJ.243	8.182	Rhizosp.	Temperate grassland	Agropyron
+RJ.245	8.507	Rhizosp.	Temperate grassland	Stipa
+RJ.246	7.594	Rhizosp.	Temperate grassland	Agropyron
+RJ.247	8.54	Rhizosp.	Temperate grassland	Agropyron
+RJ.24G	11.217	Rhizosp.	Temperate grassland	Artemisia Linn.
+RJ.25	11.147	Rhizosp.	Temperate grassland	Stipa
+RJ.252	7.759	Rhizosp.	Desert steppe	Stipa
+RJ.253	8.101	Rhizosp.	Desert steppe	Reaumuria Linn.
+RJ.260	8.493	Rhizosp.	Desert steppe	Stipa
+RJ.27	11.199	Rhizosp.	Temperate grassland	Agropyron
+RJ.313	8.049	Rhizosp.	Desert steppe	Agropyron
+RJ.36	10.986	Rhizosp.	Temperate grassland	Stipa
+RJ.4	8.904	Rhizosp.	Warm-temperate grassland	other
+RJ.416	7.823	Rhizosp.	Desert steppe	Reaumuria Linn.
+RJ.418	9.97	Rhizosp.	Desert steppe	Reaumuria Linn.
+RJ.419	10.674	Rhizosp.	Desert steppe	Artemisia Linn.
+RJ.41B	11.014	Rhizosp.	Temperate grassland	other
+RJ.41D	8.354	Rhizosp.	Temperate grassland	Stipa
+RJ.42	11.359	Rhizosp.	Temperate grassland	Agropyron
+RJ.420	10.782	Rhizosp.	Desert steppe	Stipa
+RJ.424	10.746	Rhizosp.	Desert steppe	Agropyron
+RJ.488	10.664	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.50	11.269	Rhizosp.	Temperate grassland	Artemisia Linn.
+RJ.512	10.835	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.513	10.869	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.514	10.947	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.517	10.995	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.524	10.808	Rhizosp.	Temperate grassland	Artemisia Linn.
+RJ.526	10.553	Rhizosp.	Temperate grassland	Agropyron
+RJ.527	10.78	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.534	10.641	Rhizosp.	Warm-temperate grassland	Stipa
+RJ.542	11.003	Rhizosp.	Temperate grassland	Stipa
+RJ.55	11.237	Rhizosp.	Temperate grassland	Artemisia Linn.
+RJ.558	10.61	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.56	11.311	Rhizosp.	Temperate grassland	other
+RJ.563	10.614	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.565	10.75	Rhizosp.	Temperate grassland	Artemisia Linn.
+RJ.566	11.13	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.567	11.313	Rhizosp.	Warm-temperate grassland	other
+RJ.569C	8.399	Rhizosp.	Temperate grassland	Agropyron
+RJ.569Z	11.078	Rhizosp.	Temperate grassland	other
+RJ.57	10.836	Rhizosp.	Temperate grassland	Stipa
+RJ.570	10.36	Rhizosp.	Temperate grassland	Artemisia Linn.
+RJ.571	10.716	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.575	10.926	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.577	9.32	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.578	10.748	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.579	11.158	Rhizosp.	Warm-temperate grassland	Stipa
+RJ.58	10.294	Rhizosp.	Temperate grassland	Artemisia Linn.
+RJ.59	10.528	Rhizosp.	Temperate grassland	Artemisia Linn.
+RJ.6	10.509	Rhizosp.	Warm-temperate grassland	Stipa
+RJ.60	10.688	Rhizosp.	Warm-temperate grassland	Stipa
+RJ.600	10.856	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.61	11.219	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+RJ.67	11.278	Rhizosp.	Warm-temperate grassland	other
+RJ.69	11.035	Rhizosp.	Temperate grassland	other
+RJ.72	10.74	Rhizosp.	Temperate grassland	Stipa
+RJ.74	10.013	Rhizosp.	Desert steppe	Artemisia Linn.
+RJ.76	10.945	Rhizosp.	Desert steppe	Stipa
+RJ.79	10.963	Rhizosp.	Desert steppe	Artemisia Linn.
+RJ.82	10.491	Rhizosp.	Desert steppe	Artemisia Linn.
+RJ.87	11.033	Rhizosp.	Desert steppe	Stipa
+RJ.88	10.855	Rhizosp.	Desert steppe	Stipa
+RJ.9	11.14	Rhizosp.	Warm-temperate grassland	Agropyron
+RJ.90	9.102	Rhizosp.	Desert steppe	other
+RJ.91	10.572	Rhizosp.	Desert steppe	Stipa
+RJ.93	9.14	Rhizosp.	Desert steppe	Stipa
+RJ.94	9.63	Rhizosp.	Desert steppe	Stipa
+RJ.B001	10.833	Rhizosp.	Temperate grassland	Agropyron
+RJ.B002	9.981	Rhizosp.	Desert steppe	Stipa
+RJ.B003	11.074	Rhizosp.	Temperate grassland	Stipa
+RJ.B583	10.604	Rhizosp.	Warm-temperate grassland	Stipa
+RJ.B585	11.213	Rhizosp.	Warm-temperate grassland	Stipa
+RJ.B585T	11.158	Rhizosp.	Warm-temperate grassland	Artemisia Linn.
+S.101	11.311	Soil	Desert steppe	Stipa
+S.103	10.641	Soil	Desert steppe	other
+S.112	11.074	Soil	Temperate grassland	Stipa
+S.113	11.167	Soil	Temperate grassland	Stipa
+S.14	11.256	Soil	Warm-temperate grassland	Stipa
+S.16	11.092	Soil	Warm-temperate grassland	Artemisia Linn.
+S.21	11.176	Soil	Warm-temperate grassland	Agropyron
+S.24	11.085	Soil	Temperate grassland	Artemisia Linn.
+S.243	11.002	Soil	Temperate grassland	Agropyron
+S.245	11.009	Soil	Temperate grassland	Stipa
+S.246	10.767	Soil	Temperate grassland	Agropyron
+S.247	11.223	Soil	Temperate grassland	Agropyron
+S.24G	11.144	Soil	Temperate grassland	Artemisia Linn.
+S.25	10.63	Soil	Temperate grassland	Stipa
+S.252	11.304	Soil	Desert steppe	Stipa
+S.253	10.901	Soil	Desert steppe	Reaumuria Linn.
+S.260	11.176	Soil	Desert steppe	Stipa
+S.27	11.174	Soil	Temperate grassland	Agropyron
+S.313	10.875	Soil	Desert steppe	Agropyron
+S.36	9.948	Soil	Temperate grassland	Stipa
+S.4	10.821	Soil	Warm-temperate grassland	other
+S.416	10.209	Soil	Desert steppe	Reaumuria Linn.
+S.418	11.177	Soil	Desert steppe	Reaumuria Linn.
+S.419	10.97	Soil	Desert steppe	Artemisia Linn.
+S.41B	11.271	Soil	Temperate grassland	other
+S.41D	10.989	Soil	Temperate grassland	Stipa
+S.42	11.44	Soil	Temperate grassland	Agropyron
+S.420	11.045	Soil	Desert steppe	Stipa
+S.424	11.283	Soil	Desert steppe	Agropyron
+S.488	11.224	Soil	Warm-temperate grassland	Artemisia Linn.
+S.50	10.646	Soil	Temperate grassland	Artemisia Linn.
+S.512	11.464	Soil	Warm-temperate grassland	Artemisia Linn.
+S.513	11.416	Soil	Warm-temperate grassland	Artemisia Linn.
+S.514	11.01	Soil	Warm-temperate grassland	Artemisia Linn.
+S.517	10.534	Soil	Warm-temperate grassland	Artemisia Linn.
+S.524	11.312	Soil	Temperate grassland	Artemisia Linn.
+S.526	10.883	Soil	Temperate grassland	Agropyron
+S.527	10.844	Soil	Warm-temperate grassland	Artemisia Linn.
+S.534	10.981	Soil	Warm-temperate grassland	Stipa
+S.542	10.844	Soil	Temperate grassland	Stipa
+S.55	11.265	Soil	Warm-temperate grassland	Artemisia Linn.
+S.558	11.293	Soil	Temperate grassland	Artemisia Linn.
+S.56	10.966	Soil	Temperate grassland	other
+S.563	11.262	Soil	Warm-temperate grassland	Artemisia Linn.
+S.565	10.857	Soil	Temperate grassland	Artemisia Linn.
+S.566	11.211	Soil	Warm-temperate grassland	Artemisia Linn.
+S.567	11.386	Soil	Warm-temperate grassland	other
+S.569C	10.605	Soil	Temperate grassland	Agropyron
+S.569Z	8.889	Soil	Temperate grassland	other
+S.57	11.098	Soil	Temperate grassland	Stipa
+S.570	11.359	Soil	Temperate grassland	Artemisia Linn.
+S.571	11.24	Soil	Warm-temperate grassland	Artemisia Linn.
+S.575	11.062	Soil	Warm-temperate grassland	Artemisia Linn.
+S.577	11.148	Soil	Warm-temperate grassland	Artemisia Linn.
+S.578	11.166	Soil	Warm-temperate grassland	Artemisia Linn.
+S.579	11.356	Soil	Warm-temperate grassland	Stipa
+S.58	11.004	Soil	Temperate grassland	Artemisia Linn.
+S.59	11.508	Soil	Temperate grassland	Artemisia Linn.
+S.6	10.311	Soil	Warm-temperate grassland	Stipa
+S.60	11.307	Soil	Warm-temperate grassland	Stipa
+S.600	11.143	Soil	Warm-temperate grassland	Artemisia Linn.
+S.61	11.497	Soil	Warm-temperate grassland	Artemisia Linn.
+S.67	11.181	Soil	Warm-temperate grassland	other
+S.69	11.239	Soil	Temperate grassland	other
+S.72	11.121	Soil	Temperate grassland	Stipa
+S.74	10.725	Soil	Desert steppe	Artemisia Linn.
+S.76	10.695	Soil	Desert steppe	Stipa
+S.79	10.509	Soil	Desert steppe	Artemisia Linn.
+S.82	10.478	Soil	Desert steppe	Artemisia Linn.
+S.87	11.215	Soil	Desert steppe	Stipa
+S.88	11.005	Soil	Desert steppe	Stipa
+S.9	10.767	Soil	Warm-temperate grassland	Agropyron
+S.90	11.369	Soil	Desert steppe	other
+S.91	11.095	Soil	Desert steppe	Stipa
+S.93	10.725	Soil	Desert steppe	Stipa
+S.94	10.923	Soil	Desert steppe	Stipa
+S.B001	10.806	Soil	Temperate grassland	Agropyron
+S.B002	11.07	Soil	Desert steppe	Stipa
+S.B003	11.056	Soil	Temperate grassland	Stipa
+S.B583	11.232	Soil	Warm-temperate grassland	Stipa
+S.B585	11.373	Soil	Warm-temperate grassland	Stipa
+S.B585T	11.224	Soil	Warm-temperate grassland	Artemisia Linn.

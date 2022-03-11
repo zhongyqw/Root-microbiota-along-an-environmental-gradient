@@ -1,0 +1,82 @@
+sampleID	part	type	family	Genus	geo	Group3	MAP	Group4
+RB.101	Rhizopl.	Desert steppe	Stipa	Gramineae	700.318745	G2	282.3	M2
+RB.103	Rhizopl.	Desert steppe	other	other	734.0142126	G2	259.8	M1
+RB.112	Rhizopl.	Temperate grassland	Stipa	Gramineae	704.0357766	G2	425.5	M3
+RB.113	Rhizopl.	Temperate grassland	Stipa	Gramineae	702.6731451	G2	425.5	M3
+RB.14	Rhizopl.	Warm-temperate grassland	Stipa	Gramineae	426.9273667	G4	676.4	M5
+RB.16	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	other	431.3149069	G4	592.4	M5
+RB.21	Rhizopl.	Warm-temperate grassland	Agropyron	Gramineae	488.4754876	G4	506.6	M4
+RB.24	Rhizopl.	Temperate grassland	Artemisia Linn.	Asteraceae	538.5740873	G4	471.9	M4
+RB.243	Rhizopl.	Temperate grassland	Agropyron	Gramineae	880.002071	G1	293.9	M2
+RB.245	Rhizopl.	Temperate grassland	Stipa	Gramineae	852.4902725	G1	377	M2
+RB.246	Rhizopl.	Temperate grassland	Agropyron	Gramineae	960.3113991	G1	273.7	M1
+RB.247	Rhizopl.	Temperate grassland	Agropyron	Gramineae	864.742272	G1	377	M2
+RB.24G	Rhizopl.	Temperate grassland	Artemisia Linn.	Asteraceae	538.5740873	G4	471.9	M4
+RB.25	Rhizopl.	Temperate grassland	Stipa	Gramineae	601.7917507	G3	442.6	M3
+RB.252	Rhizopl.	Desert steppe	Stipa	Gramineae	854.1408218	G1	223.9	M1
+RB.253	Rhizopl.	Desert steppe	Reaumuria Linn.	other	894.1737803	G1	191.8	M1
+RB.260	Rhizopl.	Desert steppe	Stipa	Gramineae	931.1127451	G1	179.7	M1
+RB.27	Rhizopl.	Temperate grassland	Agropyron	Gramineae	652.7308753	G3	324.5	M2
+RB.313	Rhizopl.	Desert steppe	Agropyron	Gramineae	932.5078994	G1	293.9	M2
+RB.36	Rhizopl.	Temperate grassland	Stipa	Gramineae	645.6389697	G3	324.5	M2
+RB.4	Rhizopl.	Warm-temperate grassland	other	Gramineae	658.6529776	G3	572.7	M5
+RB.416	Rhizopl.	Desert steppe	Reaumuria Linn.	other	877.35471	G1	191.8	M1
+RB.418	Rhizopl.	Desert steppe	Reaumuria Linn.	other	919.9027141	G1	293.9	M2
+RB.419	Rhizopl.	Desert steppe	Artemisia Linn.	Asteraceae	926.8783213	G1	245.8	M1
+RB.41B	Rhizopl.	Temperate grassland	other	other	619.2064784	G3	324.5	M2
+RB.41D	Rhizopl.	Temperate grassland	Stipa	Gramineae	619.2064784	G3	324.5	M2
+RB.42	Rhizopl.	Temperate grassland	Agropyron	Gramineae	617.8754528	G3	324.5	M2
+RB.420	Rhizopl.	Desert steppe	Stipa	Gramineae	984.1707853	G1	322.8	M2
+RB.424	Rhizopl.	Desert steppe	Agropyron	Gramineae	992.8224889	G1	501.3	M4
+RB.488	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	178.5556773	G5	601.6	M5
+RB.50	Rhizopl.	Temperate grassland	Artemisia Linn.	Asteraceae	558.6847382	G3	384.7	M2
+RB.512	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	349.8163609	G5	509.9	M5
+RB.513	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	297.8115725	G5	509.4	M4
+RB.514	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	323.0035577	G5	509.4	M4
+RB.517	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	422.545209	G5	423.3	M3
+RB.524	Rhizopl.	Temperate grassland	Artemisia Linn.	Asteraceae	544.3388625	G4	397.1	M3
+RB.526	Rhizopl.	Temperate grassland	Agropyron	Gramineae	543.0683537	G4	417.8	M3
+RB.527	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	441.330935	G4	413.8	M3
+RB.534	Rhizopl.	Warm-temperate grassland	Stipa	Gramineae	268.2003696	G5	505.5	M4
+RB.542	Rhizopl.	Temperate grassland	Stipa	Gramineae	534.3912849	G4	407	M3
+RB.55	Rhizopl.	Temperate grassland	Artemisia Linn.	Asteraceae	599.0054908	G3	400.2	M3
+RB.558	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	400.4428421	G5	489.6	M4
+RB.563	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	544.0339122	G4	569.4	M5
+RB.565	Rhizopl.	Temperate grassland	Artemisia Linn.	Asteraceae	501.8967084	G4	444.6	M4
+RB.566	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	457.8542785	G4	460.4	M4
+RB.567	Rhizopl.	Warm-temperate grassland	other	Gramineae	613.7897612	G3	482.9	M4
+RB.569C	Rhizopl.	Temperate grassland	Agropyron	Gramineae	613.7897612	G3	413.2	M3
+RB.569Z	Rhizopl.	Temperate grassland	other	Gramineae	584.6699968	G3	413.2	M3
+RB.57	Rhizopl.	Temperate grassland	Stipa	Gramineae	527.45636	G4	410.3	M3
+RB.570	Rhizopl.	Temperate grassland	Artemisia Linn.	Asteraceae	475.6048557	G4	460.4	M4
+RB.571	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	314.2808903	G5	447.6	M4
+RB.575	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	350.9165561	G5	514.9	M5
+RB.577	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	380.0957774	G5	464.6	M4
+RB.578	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	229.0087517	G5	476.5	M4
+RB.579	Rhizopl.	Warm-temperate grassland	Stipa	Gramineae	454.6985999	G4	553.1	M5
+RB.58	Rhizopl.	Temperate grassland	Artemisia Linn.	Asteraceae	378.6186257	G5	410.6	M3
+RB.59	Rhizopl.	Temperate grassland	Artemisia Linn.	Asteraceae	567.8214322	G3	516.1	M5
+RB.6	Rhizopl.	Warm-temperate grassland	Stipa	Gramineae	327.9565505	G5	606.1	M5
+RB.60	Rhizopl.	Warm-temperate grassland	Stipa	Gramineae	237.8717901	G5	597.8	M5
+RB.600	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	377.441117	G5	510.5	M5
+RB.61	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	682.118754	G3	577.8	M5
+RB.67	Rhizopl.	Warm-temperate grassland	other	Gramineae	700.9286057	G2	618.3	M5
+RB.69	Rhizopl.	Temperate grassland	other	Gramineae	784.8634698	G2	429.8	M3
+RB.72	Rhizopl.	Temperate grassland	Stipa	Gramineae	775.4541528	G2	359	M2
+RB.74	Rhizopl.	Desert steppe	Artemisia Linn.	Asteraceae	830.2913405	G2	259.8	M1
+RB.76	Rhizopl.	Desert steppe	Stipa	Gramineae	838.7827788	G1	176.5	M1
+RB.79	Rhizopl.	Desert steppe	Artemisia Linn.	Asteraceae	798.5046345	G2	186.2	M1
+RB.82	Rhizopl.	Desert steppe	Artemisia Linn.	Asteraceae	754.7207501	G2	192.3	M1
+RB.87	Rhizopl.	Desert steppe	Stipa	Gramineae	834.8044292	G2	188.4	M1
+RB.88	Rhizopl.	Desert steppe	Stipa	Gramineae	544.3322898	G4	167.2	M1
+RB.9	Rhizopl.	Warm-temperate grassland	Agropyron	Gramineae	839.8051827	G1	569.7	M5
+RB.90	Rhizopl.	Desert steppe	other	Gramineae	835.8550815	G2	138.8	M1
+RB.91	Rhizopl.	Desert steppe	Stipa	Gramineae	835.7481575	G2	182.9	M1
+RB.93	Rhizopl.	Desert steppe	Stipa	Gramineae	700.6066942	G2	182.9	M1
+RB.94	Rhizopl.	Desert steppe	Stipa	Gramineae	785.1842098	G2	282.3	M2
+RB.B001	Rhizopl.	Temperate grassland	Agropyron	Gramineae	961.2800471	G1	390.6	M3
+RB.B002	Rhizopl.	Desert steppe	Stipa	Gramineae	698.3881129	G2	273.7	M1
+RB.B003	Rhizopl.	Temperate grassland	Stipa	Gramineae	614.0145141	G3	409.5	M3
+RB.B583	Rhizopl.	Warm-temperate grassland	Stipa	Gramineae	428.9020116	G4	470.2	M4
+RB.B585	Rhizopl.	Warm-temperate grassland	Stipa	Gramineae	551.5298716	G3	676.4	M5
+RB.B585T	Rhizopl.	Warm-temperate grassland	Artemisia Linn.	Asteraceae	551.5298716	G3	676.4	M5

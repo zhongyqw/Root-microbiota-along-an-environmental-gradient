@@ -1,0 +1,13 @@
+index	Desert steppe	Temperate grassland	Warm-temperate grassland	part
+num.vertices	469	483	486	Endosp.
+?ratio of negative:positive cohesion	1.330532213	1.310249307	1.187179487	Endosp.
+modularity	0.55	0.567	0.562	Endosp.
+num.vertices	479	478	485	Rhizopl.
+?ratio of negative:positive cohesion	1.5	1.331395349	1.263736264	Rhizopl.
+modularity	0.589	0.581	0.574	Rhizopl.
+num.vertices	482	481	486	Rhizosp.
+?ratio of negative:positive cohesion	1.408823529	1.236413043	1.203753351	Rhizosp.
+modularity	0.574	0.581	0.584	Rhizosp.
+num.vertices	478	479	480	Soil
+?ratio of negative:positive cohesion	1.347432024	1.390029326	1.276353276	Soil
+modularity	0.586	0.575	0.578	Soil
